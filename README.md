@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
+**<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 <p align="left">
   <a href="https://github.com/phgas">
     <img src="https://komarev.com/ghpvc/?username=phgas" alt="page views">
@@ -10,10 +10,11 @@
   <a href="mailto:contact@phgas.dev"><img src="https://img.shields.io/badge/-contact@phgas.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/p-gasser"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="#phgas-title">
-    <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=phgas&theme=github_dark&show_icons=true" alt="phgas" align="right" width="450">
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=phgas&theme=github_dark&show_icons=true&card_width=390" alt="phgas" align="right">
   </a>
 </p>
 
 <img src="animation.gif">
 
 <!-- PS: If you are reading this, you are great! -->
+**
