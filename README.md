@@ -10,7 +10,7 @@
   <a href="mailto:contact@phgas.dev"><img src="https://img.shields.io/badge/-contact@phgas.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/p-gasser"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="#phgas-title">
-    <img src="https://github-readme-stats.vercel.app/api?username=phgas&theme=github_dark&show_icons=true&hide_rank=true&include_all_commits=false" alt="phgas" align="right">
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=phgas&theme=github_dark&show_icons=true" alt="phgas" align="right">
   </a>
 </p>
 
